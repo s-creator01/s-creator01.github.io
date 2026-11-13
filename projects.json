@@ -1,0 +1,123 @@
+[
+  {
+    "id": "remind",
+    "slug": "s-remind",
+    "number": "01",
+    "name": "S Remind",
+    "status": "In development",
+    "platform": "Android",
+    "short": "Reminders, notes & habits — thoughtfully together.",
+    "description": "An offline Android app for reminders, notes, habits, Flow focus sessions, and privacy-focused tools.",
+    "detail": "S Remind brings reminders, notes, habits and focus sessions together in an Android app designed for offline use.",
+    "sections": [
+      {
+        "heading": "Reminders and calendar",
+        "body": "Browse a calendar and organize reminders into Today, Upcoming, Completed and Overdue views. Create reminders to keep track of everyday tasks."
+      },
+      {
+        "heading": "Notes and Secure Vault",
+        "body": "Keep notes together, browse and search them, and access a Secure Vault area intended for cards, passwords and private details."
+      },
+      {
+        "heading": "Habits and progress",
+        "body": "Track habits and personal goals, view streaks and journey or analytics screens, and record activity over time."
+      },
+      {
+        "heading": "Flow focus sessions",
+        "body": "Use a focus and break timer, keep quick tasks nearby, and see session counts and focus time for the day."
+      },
+      {
+        "heading": "Milo assistant",
+        "body": "Milo includes voice reminder and smart scanner options, along with shortcuts to tasks, notes and a timer. Milo is being improved: voice and scan results can contain mistakes and should be reviewed before saving."
+      },
+      {
+        "heading": "Availability",
+        "body": "S Remind is in development. The features described here are based on the current app preview; release details and download links will be added when available."
+      }
+    ]
+  },
+  {
+    "id": "stech",
+    "slug": "s-tech",
+    "number": "02",
+    "name": "S-tech",
+    "status": "In development",
+    "platform": "Android",
+    "short": "A simpler way to keep an eye on your money.",
+    "description": "An offline Android money manager and personal finance tracker.",
+    "detail": "S-tech is designed to help organize personal finances on Android. It is in development, and official release information will be added here when available."
+  },
+  {
+    "id": "craft",
+    "slug": "s-craft",
+    "number": "03",
+    "name": "S-Craft Tools",
+    "status": "Live",
+    "platform": "Web",
+    "short": "PDF, image, video & more useful tools.",
+    "description": "Free browser-based PDF, image, text, video, audio, time, and number utilities.",
+    "detail": "S-Craft Tools brings everyday file and utility tools together in one browser-based workspace. Choose a tool, add a file when needed, adjust its options, and save the result.",
+    "website": "https://s-creator01.github.io/s-craft-tools/",
+    "source": "https://github.com/s-creator01/s-craft-tools",
+    "sections": [
+      {
+        "heading": "PDF tools",
+        "body": "Merge, split, compress, organize and rotate pages, add watermarks, add or remove a known PDF password, convert images and PDFs, and add a visible signature."
+      },
+      {
+        "heading": "Image tools",
+        "body": "Resize, crop, compress and convert images; add text or watermarks; rotate, combine or sign images; and remove metadata."
+      },
+      {
+        "heading": "Video and audio",
+        "body": "Trim, compress, convert and adjust media. Video tools include crop, resize, rotation, speed, merging and audio extraction; audio tools include volume, fades, looping and noise reduction."
+      },
+      {
+        "heading": "Text, time and numbers",
+        "body": "Count and clean text, compare versions, use timers and date tools, or work with percentages, units, estimates, statistics and number conversions. Currency conversion uses a rate you provide."
+      },
+      {
+        "heading": "A workspace that remembers",
+        "body": "Browse or search the collection, save favorite tools, and use Quick Access and Recent Activity to return to your work. These preferences are stored in your browser."
+      },
+      {
+        "heading": "On-device processing",
+        "body": "The tools are designed to process files on your device. Browser media tools load a processing engine when needed; large or complex files can be limited by the browser and device. The full privacy review is ongoing."
+      },
+      {
+        "heading": "Open source",
+        "body": "The public source is available on GitHub. Project-owned code is licensed under AGPL-3.0-only; third-party components have their own notices and licenses."
+      }
+    ]
+  },
+  {
+    "id": "learn",
+    "slug": "s-learn-auto",
+    "number": "04",
+    "name": "S Learn Auto",
+    "status": "Live",
+    "platform": "Web",
+    "short": "Learn industrial automation, step by step.",
+    "description": "A self-paced learning platform for industrial automation, with a structured roadmap, practical projects and study resources.",
+    "detail": "S Learn Auto helps learners move from electrical foundations toward industrial control systems through a structured, self-paced roadmap.",
+    "website": "https://slearnauto.com/",
+    "sections": [
+      {
+        "heading": "A learning roadmap",
+        "body": "Follow 46 learning phases, starting with electrical fundamentals, electrical drawings and control devices, then progressing through motors, sensors, instrumentation, PLCs, HMI, drives, industrial networks, SCADA and commissioning."
+      },
+      {
+        "heading": "Study and track progress",
+        "body": "Explore phase checklists and progress tracking, use flashcard quizzes, and revisit the topics you want to practice. Interactive study tools require JavaScript."
+      },
+      {
+        "heading": "Connect theory with practice",
+        "body": "Browse practical automation project ideas and learning resources to connect concepts with simulations or training-lab practice. Review the project scope and equipment instructions before starting."
+      },
+      {
+        "heading": "Who it is for",
+        "body": "The roadmap is designed for self-paced study, whether you are beginning with electrical concepts or building knowledge of industrial control systems. It does not replace formal qualifications or equipment-specific instructions."
+      }
+    ]
+  }
+]
